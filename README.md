@@ -10,7 +10,6 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://www.yanhan.space/my-github-repos)
 * [Redis面试总结](https://www.yanhan.space/articles/2019/09/23/1569242912402.html)
 * [MySQL面试总结](https://www.yanhan.space/articles/2019/09/23/1569242886340.html)
 * [JVM](https://www.yanhan.space/articles/2019/09/23/1569242856550.html)
